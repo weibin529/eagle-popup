@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "vbin"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "is-touch-device": "^1.0.1",
+    "sparrow-device-query": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "controls popup layers",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "popup"
+  ],
+  "license": "MIT",
+  "module": "lib/index.js",
+  "name": "eagle-popup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheap-pets/sparrow-popup.git"
+  },
+  "version": "0.0.1"
+}
