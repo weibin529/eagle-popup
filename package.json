@@ -5,7 +5,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "is-touch-device": "^1.0.1",
-    "sparrow-device-query": "^1.0.0"
+    "eagle-device-query": "^0.0.1"
   },
   "deprecated": false,
   "description": "controls popup layers",
@@ -23,7 +23,7 @@
   "name": "eagle-popup",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cheap-pets/sparrow-popup.git"
+    "url":  "https://github.com/weibin529/eagle-popup.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
